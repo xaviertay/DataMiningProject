@@ -12,3 +12,5 @@ Things to take note:
 Before importing the library of some classes in python, there are few installation packages have to be included in your machine such as nltk and xgboost library.
 
 For unstructured data, severity of weather news collected is self-labelled.
+
+Workspaces folder in SAS Enterprise Miner is empty because there are more than 100 files and thus can't upload to github by drag and drop.
